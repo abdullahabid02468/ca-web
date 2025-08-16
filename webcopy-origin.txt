@@ -1,0 +1,860 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.2/mdb.min.css
+File Name: C:\Downloaded Web Sites\indeema.com\ajax\libs\mdb-ui-kit\6.4.2\mdb.min.css
+Content Type: text/css
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/BLOGmax2025_1750073227537.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\BLOGmax2025_1750073227537.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/BLOGmax_1683629500817.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\BLOGmax_1683629500817.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/BLOGmax_1685450477827.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\BLOGmax_1685450477827.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/BqLOGmax_1683704775315.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\BqLOGmax_1683704775315.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/Frame3937_1683629500817.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\Frame3937_1683629500817.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/Frame3937_1684411501591.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\Frame3937_1684411501591.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/Frame3937_1685450477868.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\Frame3937_1685450477868.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/Frame3937_1706710985208.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\Frame3937_1706710985208.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/Frame3937_1706711415311.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\Frame3937_1706711415311.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/Ivan_blog(1)_1724052646015.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\Ivan_blog(1)_1724052646015.webp
+Content Type: image/webp
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/Untitleddesign(5)_1671722725950.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\Untitleddesign(5)_1671722725950.webp
+Content Type: binary/octet-stream
+
+Uri: https://indeema-web-images-prod.s3.eu-central-1.amazonaws.com/img/blog/www_1695642426797.webp
+File Name: C:\Downloaded Web Sites\indeema.com\img\blog\www_1695642426797.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/
+File Name: C:\Downloaded Web Sites\indeema.com\index.htm
+Content Type: text/html
+
+Uri: https://indeema.com/404
+File Name: C:\Downloaded Web Sites\indeema.com\404.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/about-us/bg-watch-us.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\about-us\bg-watch-us.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/about-us/icons/play.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\about-us\icons\play.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/about-us/Indeema-Software-video.mp4
+File Name: C:\Downloaded Web Sites\indeema.com\assets\about-us\Indeema-Software-video.mp4
+Content Type: video/mp4
+
+Uri: https://indeema.com/assets/about-us/Indeema-Software-video.webm
+File Name: C:\Downloaded Web Sites\indeema.com\assets\about-us\Indeema-Software-video.webm
+Content Type: video/webm
+
+Uri: https://indeema.com/assets/about-us/indeema-video-poster.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\about-us\indeema-video-poster.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/about-us/skyscrapers.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\about-us\skyscrapers.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/blog_load/divider_bg.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\blog_load\divider_bg.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/blog_load/empty-blog.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\blog_load\empty-blog.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/blog_load/hello.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\blog_load\hello.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/blog_load/subscibe-bell.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\blog_load\subscibe-bell.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/close.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\close.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/contact-us/map.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\contact-us\map.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/contact_us_form_bg.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\contact_us_form_bg.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/fonts/FuturaPTMedium.otf
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\FuturaPTMedium.otf
+Content Type: font/otf
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-300.woff
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-300.woff
+Content Type: font/woff
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-300.woff2
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-300.woff2
+Content Type: font/woff2
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-500.woff
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-500.woff
+Content Type: font/woff
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-500.woff2
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-500.woff2
+Content Type: font/woff2
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-600.woff
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-600.woff
+Content Type: font/woff
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-600.woff2
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-600.woff2
+Content Type: font/woff2
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-regular.woff
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-regular.woff
+Content Type: font/woff
+
+Uri: https://indeema.com/assets/fonts/poppins-v20-latin-regular.woff2
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\poppins-v20-latin-regular.woff2
+Content Type: font/woff2
+
+Uri: https://indeema.com/assets/fonts/_fonts.css
+File Name: C:\Downloaded Web Sites\indeema.com\assets\fonts\_fonts.css
+Content Type: text/css
+
+Uri: https://indeema.com/assets/header/mobile-menu-arrow.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\header\mobile-menu-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/homepage/partners/avnet-light.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\homepage\partners\avnet-light.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/homepage/partners/lnu-light.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\homepage\partners\lnu-light.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/homepage/partners/microchip-light.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\homepage\partners\microchip-light.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/homepage/partners/n2o-light.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\homepage\partners\n2o-light.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/homepage/partners/undp-light.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\homepage\partners\undp-light.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/homepage/promo_home-img_2025.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\homepage\promo_home-img_2025.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/icons/arrow_cases.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\arrow_cases.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/balance.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\balance.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/challenge.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\challenge.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/check-icon.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\check-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/partnership.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\partnership.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/play-btn-i.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\play-btn-i.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/quote-pic-i.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\quote-pic-i.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/star_in_hands.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\star_in_hands.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/icons/union.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\icons\union.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/healthcare-slider-1.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\healthcare-slider-1.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/healthcare-slider-2.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\healthcare-slider-2.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/healthcare-slider-3.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\healthcare-slider-3.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/healthcare-slider-4.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\healthcare-slider-4.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/manufacturing-benefits-bg.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\manufacturing-benefits-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/oil-and-gas/icons/icon-1.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\oil-and-gas\icons\icon-1.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/industries-pages/oil-and-gas/icons/icon-2.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\oil-and-gas\icons\icon-2.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/industries-pages/oil-and-gas/icons/icon-3.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\oil-and-gas\icons\icon-3.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/industries-pages/solar-and-wind-icon-1.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\solar-and-wind-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/solar-and-wind-icon-2.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\solar-and-wind-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/solar-and-wind-icon-3.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\solar-and-wind-icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/industries-pages/tech-advisory/buildings.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\tech-advisory\buildings.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/industries-pages/tech-advisory/cloud.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\tech-advisory\cloud.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/industries-pages/tech-advisory/group-of-cloud.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\tech-advisory\group-of-cloud.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/industries-pages/tech-advisory/sun.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\industries-pages\tech-advisory\sun.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/paperclip.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\paperclip.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/pixel_placeholder.jpg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\pixel_placeholder.jpg
+Content Type: image/jpeg
+
+Uri: https://indeema.com/assets/portfolio/icons/arrow-i.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\icons\arrow-i.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/portfolio/icons/arrow-left.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\icons\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/portfolio/icons/arrow-right.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\icons\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/portfolio/new/alice-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\alice-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/beastcam-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\beastcam-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/bikes-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\bikes-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/custom-smart-home-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\custom-smart-home-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/dogCloud-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\dogCloud-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/dol-sensors-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\dol-sensors-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/drone-research-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\drone-research-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/drone-spraying-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\drone-spraying-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/greenery-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\greenery-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/ireds-illustration-mobile.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\ireds-illustration-mobile.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/ireds-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\ireds-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/lemod-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\lemod-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/maggy-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\maggy-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/monitoring-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\monitoring-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/monitoring-life-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\monitoring-life-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/patients-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\patients-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/shotkam-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\shotkam-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/smart-lifts-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\smart-lifts-illustration.png.html
+Content Type: text/html
+
+Uri: https://indeema.com/assets/portfolio/new/solar-illustration-mobile.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\solar-illustration-mobile.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/solar-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\solar-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/ubreez-illustration-mobile.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\ubreez-illustration-mobile.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/ubreez-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\ubreez-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/udb-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\udb-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/udb-pattern.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\udb-pattern.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/portfolio/new/viking-illustration.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\portfolio\new\viking-illustration.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/services/dedicated/dedicated.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\dedicated\dedicated.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/services/development/e_bg-indeema-dark.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\development\e_bg-indeema-dark.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/services/development/e_bg-indeema.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\development\e_bg-indeema.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/devops/check-circle.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\devops\check-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/devops/infinity-icon.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\devops\infinity-icon.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/services/firmware/embedded_dev.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\firmware\embedded_dev.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/services/iot-app/icons/algorithm.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot-app\icons\algorithm.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/iot-app/icons/quality.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot-app\icons\quality.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/iot-app/icons/security.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot-app\icons\security.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/iot-consulting/algorithm.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot-consulting\algorithm.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/iot-consulting/consulting.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot-consulting\consulting.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/services/iot-consulting/quality.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot-consulting\quality.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/iot-consulting/security.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot-consulting\security.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/iot/approach.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot\approach.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/iot/iot_testing.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\iot\iot_testing.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/services/leadership/leadership_background_logo.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\leadership\leadership_background_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/post-production/post-production-header-img.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\post-production\post-production-header-img.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/services/uxui/arrows.png
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\uxui\arrows.png
+Content Type: image/png
+
+Uri: https://indeema.com/assets/services/web/andrii.webp
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\andrii.webp
+Content Type: image/webp
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/deployment.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\deployment.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/design.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\design.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/implementing.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\implementing.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/maintenance_&_support.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\maintenance_&_support.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/planning.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\planning.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/research_discovery.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\research_discovery.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/technology.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\technology.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/services/web/web-process-icon/testing.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\services\web\web-process-icon\testing.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/svg/close_white_icon.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\svg\close_white_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/svg/invitation.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\svg\invitation.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/svg/logo-dark.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\svg\logo-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/assets/svg/logo-light.svg
+File Name: C:\Downloaded Web Sites\indeema.com\assets\svg\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://indeema.com/blog
+File Name: C:\Downloaded Web Sites\indeema.com\blog.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/ai-in-drone-defence--from-object-detection-to-autonomous-action---indeema-software
+File Name: C:\Downloaded Web Sites\indeema.com\blog\ai-in-drone-defence--from-object-detection-to-autonomous-action---indeema-software.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/category/iot
+File Name: C:\Downloaded Web Sites\indeema.com\blog\category\iot.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/category/technologies
+File Name: C:\Downloaded Web Sites\indeema.com\blog\category\technologies.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/how-can-you-use-iot-in-automotive
+File Name: C:\Downloaded Web Sites\indeema.com\blog\how-can-you-use-iot-in-automotive.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/how-to-create-a-customer-loyalty-rewards-platform--case-study-
+File Name: C:\Downloaded Web Sites\indeema.com\blog\how-to-create-a-customer-loyalty-rewards-platform--case-study-.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/intelligent-vehicle-telemetry-for-electric-bikes-case-study
+File Name: C:\Downloaded Web Sites\indeema.com\blog\intelligent-vehicle-telemetry-for-electric-bikes-case-study.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/internet-of-vehicle--how-to-program-and-connect-the-car
+File Name: C:\Downloaded Web Sites\indeema.com\blog\internet-of-vehicle--how-to-program-and-connect-the-car.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/news
+File Name: C:\Downloaded Web Sites\indeema.com\blog\news.html
+Content Type: text/html
+
+Uri: https://indeema.com/blog/the-internet-of-military-things-iomt--how-iot-is-used-in-warfare
+File Name: C:\Downloaded Web Sites\indeema.com\blog\the-internet-of-military-things-iomt--how-iot-is-used-in-warfare.html
+Content Type: text/html
+
+Uri: https://indeema.com/careers
+File Name: C:\Downloaded Web Sites\indeema.com\careers.html
+Content Type: text/html
+
+Uri: https://indeema.com/chunk-626JZQZH.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-626JZQZH.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-EI36ACBT.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-EI36ACBT.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-F2INHLGL.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-F2INHLGL.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-GLUAVVOB.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-GLUAVVOB.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-GOV7BL6D.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-GOV7BL6D.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-MZEDG2PL.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-MZEDG2PL.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-OFL3BZMS.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-OFL3BZMS.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-Q66EEVZ5.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-Q66EEVZ5.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-UVUXWTRK.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-UVUXWTRK.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/chunk-WXT4LATB.js
+File Name: C:\Downloaded Web Sites\indeema.com\chunk-WXT4LATB.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/company
+File Name: C:\Downloaded Web Sites\indeema.com\company.html
+Content Type: text/html
+
+Uri: https://indeema.com/company/faq
+File Name: C:\Downloaded Web Sites\indeema.com\company\faq.html
+Content Type: text/html
+
+Uri: https://indeema.com/company/leadership
+File Name: C:\Downloaded Web Sites\indeema.com\company\leadership.html
+Content Type: text/html
+
+Uri: https://indeema.com/company/privacy
+File Name: C:\Downloaded Web Sites\indeema.com\company\privacy.html
+Content Type: text/html
+
+Uri: https://indeema.com/company/terms
+File Name: C:\Downloaded Web Sites\indeema.com\company\terms.html
+Content Type: text/html
+
+Uri: https://indeema.com/contact-us
+File Name: C:\Downloaded Web Sites\indeema.com\contact-us.html
+Content Type: text/html
+
+Uri: https://indeema.com/favicon.ico
+File Name: C:\Downloaded Web Sites\indeema.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://indeema.com/industries/agriculture
+File Name: C:\Downloaded Web Sites\indeema.com\industries\agriculture.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/automotive
+File Name: C:\Downloaded Web Sites\indeema.com\industries\automotive.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/consumer
+File Name: C:\Downloaded Web Sites\indeema.com\industries\consumer.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/drones-and-uav
+File Name: C:\Downloaded Web Sites\indeema.com\industries\drones-and-uav.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/energy-sector
+File Name: C:\Downloaded Web Sites\indeema.com\industries\energy-sector.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/healthcare
+File Name: C:\Downloaded Web Sites\indeema.com\industries\healthcare.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/high-tech
+File Name: C:\Downloaded Web Sites\indeema.com\industries\high-tech.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/manufacturing
+File Name: C:\Downloaded Web Sites\indeema.com\industries\manufacturing.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/oil-and-gas
+File Name: C:\Downloaded Web Sites\indeema.com\industries\oil-and-gas.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/smart-homes
+File Name: C:\Downloaded Web Sites\indeema.com\industries\smart-homes.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/solar-and-wind
+File Name: C:\Downloaded Web Sites\indeema.com\industries\solar-and-wind.html
+Content Type: text/html
+
+Uri: https://indeema.com/industries/telemedicine
+File Name: C:\Downloaded Web Sites\indeema.com\industries\telemedicine.html
+Content Type: text/html
+
+Uri: https://indeema.com/main-IX6CVS2B.js
+File Name: C:\Downloaded Web Sites\indeema.com\main-IX6CVS2B.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/manifest.json
+File Name: C:\Downloaded Web Sites\indeema.com\manifest.json
+Content Type: application/json
+
+Uri: https://indeema.com/polyfills-FFHMD2TL.js
+File Name: C:\Downloaded Web Sites\indeema.com\polyfills-FFHMD2TL.js
+Content Type: application/javascript
+
+Uri: https://indeema.com/portfolio
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/alice
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\alice.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/beastcam
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\beastcam.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/bikes
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\bikes.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/custom-smart-home
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\custom-smart-home.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/dogCloud
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\dogCloud.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/dol-sensors
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\dol-sensors.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/drone-research
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\drone-research.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/drone-spraying
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\drone-spraying.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/greenery
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\greenery.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/ireds
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\ireds.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/lemod
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\lemod.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/maggy
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\maggy.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/monitoring-life
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\monitoring-life.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/shotkam
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\shotkam.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/smart-lifts
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\smart-lifts.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/solar
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\solar.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/ubreez
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\ubreez.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/udb
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\udb.html
+Content Type: text/html
+
+Uri: https://indeema.com/portfolio/viking
+File Name: C:\Downloaded Web Sites\indeema.com\portfolio\viking.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/cloud-software
+File Name: C:\Downloaded Web Sites\indeema.com\services\cloud-software.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/dedicatedteam
+File Name: C:\Downloaded Web Sites\indeema.com\services\dedicatedteam.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/dev-ops
+File Name: C:\Downloaded Web Sites\indeema.com\services\dev-ops.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/firmware
+File Name: C:\Downloaded Web Sites\indeema.com\services\firmware.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/iot
+File Name: C:\Downloaded Web Sites\indeema.com\services\iot.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/iot-consulting
+File Name: C:\Downloaded Web Sites\indeema.com\services\iot-consulting.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/mobile-development/android-app
+File Name: C:\Downloaded Web Sites\indeema.com\services\mobile-development\android-app.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/mobile-development/cross-platform
+File Name: C:\Downloaded Web Sites\indeema.com\services\mobile-development\cross-platform.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/mobile-development/ios-app
+File Name: C:\Downloaded Web Sites\indeema.com\services\mobile-development\ios-app.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/mobile-development/iot-app
+File Name: C:\Downloaded Web Sites\indeema.com\services\mobile-development\iot-app.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/mobiledevelopment
+File Name: C:\Downloaded Web Sites\indeema.com\services\mobiledevelopment.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/mvp
+File Name: C:\Downloaded Web Sites\indeema.com\services\mvp.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/post-production
+File Name: C:\Downloaded Web Sites\indeema.com\services\post-production.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/r-and-d
+File Name: C:\Downloaded Web Sites\indeema.com\services\r-and-d.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/tech-advisory
+File Name: C:\Downloaded Web Sites\indeema.com\services\tech-advisory.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/uxui
+File Name: C:\Downloaded Web Sites\indeema.com\services\uxui.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/web-development/back-end
+File Name: C:\Downloaded Web Sites\indeema.com\services\web-development\back-end.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/web-development/database
+File Name: C:\Downloaded Web Sites\indeema.com\services\web-development\database.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/web-development/front-end
+File Name: C:\Downloaded Web Sites\indeema.com\services\web-development\front-end.html
+Content Type: text/html
+
+Uri: https://indeema.com/services/webdevelopment
+File Name: C:\Downloaded Web Sites\indeema.com\services\webdevelopment.html
+Content Type: text/html
+
+Uri: https://indeema.com/styles-RGQ7YCZZ.css
+File Name: C:\Downloaded Web Sites\indeema.com\styles-RGQ7YCZZ.css
+Content Type: text/css
+
+Uri: https://indeema.com/SUBTITLE_PATH
+File Name: C:\Downloaded Web Sites\indeema.com\SUBTITLE_PATH.html
+Content Type: text/html
+

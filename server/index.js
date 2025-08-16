@@ -3,6 +3,7 @@ import mongoose from 'mongoose';
 import cors from 'cors';
 import blogs from './routes/blogs.js';
 import jobs from './routes/jobs.js';
+import contacts from './routes/contacts.js';
 
 const app = express();
 app.use(cors());
@@ -15,6 +16,7 @@ mongoose.connect(MONGO_URL, { useNewUrlParser: true, useUnifiedTopology: true })
 
 app.use('/api/blogs', blogs);
 app.use('/api/jobs', jobs);
+app.use('/api/contacts', contacts);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {

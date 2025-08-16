@@ -1,0 +1,19 @@
+/* Cosmos Algo Theme Overrides */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: #0057b8;
+}
+
+a:hover {
+  color: #003f8a;
+}
+
+.form-check-input[type=checkbox]:checked {
+  border-color: #0057b8 !important;
+  background-color: #0057b8 !important;
+}
